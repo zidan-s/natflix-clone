@@ -1,0 +1,15 @@
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color:brown;
+    color:aliceblue;
+    font-size: 20px;
+  }
+ 
+  li{
+    float:left;
+    padding: 15px;
+  }
+  li:hover{
+    background-color:rgb(210, 164, 108);
+  }
